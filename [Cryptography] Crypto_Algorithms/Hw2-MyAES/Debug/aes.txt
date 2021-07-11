@@ -1,0 +1,107 @@
+下载myaes.zip(http://10.71.45.100/bhh/myaes.zip), 解压缩, 里面包含了vc6的工程
+文件MyAes.dsw, 双击打开, 可以看到MyAes.c; 
+MyAes.c中部分函数的源代码已删除, 这些函数经编译后生成的机器码已转移到aes_lib.lib内。
+这些已删除的函数包括:
+void build_sbox_inverse(void);
+void aes_polynomial_mul(unsigned char x[4], unsigned char y[4], unsigned char z[4]);
+void ByteSubInverse(unsigned char *p, int n);
+void ShiftRowInverse(unsigned char *p);
+void MixColumnInverse(unsigned char *p, unsigned char a[4], int do_mul);
+void aes_decrypt(unsigned char *bufin, unsigned char *bufout, unsigned char *key);
+请对本程序(MyAes.c)做以下修改:
+(1) 重写上述函数
+(2) 删除#pragma comment(lib, "aes_lib.lib")
+要求:
+(1) 修改后的程序必须能正常编译运行
+(2) 运行产生的输出结果与本程序一致
+
+如果不想用VC6测试程序, 而是要在linux系统下编程, 请执行以下命令进行编译、运行:
+gcc myaes.c aes_lib.o -o myaes
+./myaes
+===================================================================================
+以下为上述函数的功能说明:
+void build_sbox_inverse(void)
+{
+   /* 根据sbox生成sbox反查表sbox_inverse, 其中sbox及sbox_inverse均为全局数组:
+      unsigned char sbox[256], sbox_inverse[256];  // sbox的值已初始化
+     */
+}
+
+
+void aes_polynomial_mul(unsigned char x[4], unsigned char y[4], unsigned char z[4])
+{
+   /* 有限域GF(2^8)多项式乘法,
+                          4
+      计算z = x * y mod (x  + 1);
+    */
+   /*                   3    2
+      当被乘数为多项式3X  + X  + X + 2的4个系数{3, 1, 1, 2}时, 转化成矩阵为:
+      2 3 1 1
+      1 2 3 1
+      1 1 2 3
+      3 1 1 2
+                           3        2
+      当被乘数为多项式0xB*X  + 0xD*X  + 0x9*X + 0xE的4个系数{0xB, 0xD, 0x9, 0xE}时, 转化成矩阵为:
+      E B D 9
+      9 E B D
+      D 9 E B
+      B D 9 E
+
+      乘数也是一个3次多项式, 它的4个系数保存在y中;
+
+                  4
+      x * y mod (x  + 1)的计算结果仍是一个3次多项式, 它的4个系数保存在z中.
+   */
+}
+
+
+void ByteSubInverse(unsigned char *p, int n)
+{
+   /* 把p所指向的n字节替换成sbox反查表sbox_inverse中的值 */
+}
+
+
+void ShiftRowInverse(unsigned char *p)
+{
+   /* 对p所指向的4*4矩阵做逐行循环右移操作:
+      第0行: 不移动;
+      第1行: 循环右移1字节
+      第2行: 循环右移2字节
+      第3行: 循环右移3字节
+    */
+}
+
+
+void MixColumnInverse(unsigned char *p, unsigned char a[4], int do_mul)
+{
+   /* (1) 把p指向的4*4矩阵m中的4行逐行与矩阵a做乘法运算;          
+      (2) 这里的乘法是指有限域GF(2^8)多项式模(X^4+1)乘法;
+      (3) 被乘数a为多项式
+             0xB * X^3 + 0xD * X^2 + 0x9 * X + 0xE 
+          的4个系数, 即{0x0B, 0x0D, 0x09, 0x0E}, 展开为矩阵就是:
+             E B D 9
+             9 E B D
+             D 9 E B
+             B D 9 E
+      (4) 矩阵m中的4行逐行与a做乘法运算后, 按以下顺序转成矩阵t中的列:
+          第0列:
+            a * m[0]
+          第1列:
+            a * m[1]
+          第2列:
+            a * m[2]
+          第3列:
+            a * m[3]
+      (5) 复制t到p中, 替换掉p中原有的矩阵;
+      (6) do_mul用来控制是否要做乘法运算, 加密最后一轮及解密第一轮do_mul=0;
+    */
+}
+
+void aes_decrypt(unsigned char *bufin, unsigned char *bufout, unsigned char *key)
+{
+   /* 使用key对bufin中包含的16字节密文进行解密, 产生16字节明文存放到bufout */
+   /* 具体步骤请参考以下函数:
+      void aes_encrypt(unsigned char *bufin, unsigned char *bufout, unsigned char *key);
+      但要注意解密步骤的顺序与加密步骤是相反的。
+    */
+}

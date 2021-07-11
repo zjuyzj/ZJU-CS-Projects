@@ -1,0 +1,69 @@
+# Project: BMS
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+RES      = Outputs/BooksManagementSystem_private.res
+OBJ      = Outputs/imgui.o Outputs/exceptio.o Outputs/genlib.o Outputs/graphics.o Outputs/random.o Outputs/simpio.o Outputs/strlib.o Outputs/main.o Outputs/gui.o Outputs/file.o Outputs/ds.o Outputs/search.o Outputs/sort.o $(RES)
+LINKOBJ  = Outputs/imgui.o Outputs/exceptio.o Outputs/genlib.o Outputs/graphics.o Outputs/random.o Outputs/simpio.o Outputs/strlib.o Outputs/main.o Outputs/gui.o Outputs/file.o Outputs/ds.o Outputs/search.o Outputs/sort.o $(RES)
+LIBS     = -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -mwindows -lwinmm -g3
+INCS     = -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"../libs/libgraphics" -I"../libs/simpleGUI" -I"./Codes"
+CXXINCS  = -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"../libs/libgraphics" -I"../libs/simpleGUI" -I"./Codes"
+BIN      = Outputs/BooksManagementSystem.exe
+CXXFLAGS = $(CXXINCS) -w -g3
+CFLAGS   = $(INCS) -w -g3
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+Outputs/imgui.o: ../libs/simpleGUI/imgui.c
+	$(CC) -c ../libs/simpleGUI/imgui.c -o Outputs/imgui.o $(CFLAGS)
+
+Outputs/exceptio.o: ../libs/libgraphics/exceptio.c
+	$(CC) -c ../libs/libgraphics/exceptio.c -o Outputs/exceptio.o $(CFLAGS)
+
+Outputs/genlib.o: ../libs/libgraphics/genlib.c
+	$(CC) -c ../libs/libgraphics/genlib.c -o Outputs/genlib.o $(CFLAGS)
+
+Outputs/graphics.o: ../libs/libgraphics/graphics.c
+	$(CC) -c ../libs/libgraphics/graphics.c -o Outputs/graphics.o $(CFLAGS)
+
+Outputs/random.o: ../libs/libgraphics/random.c
+	$(CC) -c ../libs/libgraphics/random.c -o Outputs/random.o $(CFLAGS)
+
+Outputs/simpio.o: ../libs/libgraphics/simpio.c
+	$(CC) -c ../libs/libgraphics/simpio.c -o Outputs/simpio.o $(CFLAGS)
+
+Outputs/strlib.o: ../libs/libgraphics/strlib.c
+	$(CC) -c ../libs/libgraphics/strlib.c -o Outputs/strlib.o $(CFLAGS)
+
+Outputs/main.o: Codes/main.c
+	$(CC) -c Codes/main.c -o Outputs/main.o $(CFLAGS)
+
+Outputs/gui.o: Codes/gui.c
+	$(CC) -c Codes/gui.c -o Outputs/gui.o $(CFLAGS)
+
+Outputs/file.o: Codes/file.c
+	$(CC) -c Codes/file.c -o Outputs/file.o $(CFLAGS)
+
+Outputs/ds.o: Codes/ds.c
+	$(CC) -c Codes/ds.c -o Outputs/ds.o $(CFLAGS)
+
+Outputs/search.o: Codes/search.c
+	$(CC) -c Codes/search.c -o Outputs/search.o $(CFLAGS)
+
+Outputs/sort.o: Codes/sort.c
+	$(CC) -c Codes/sort.c -o Outputs/sort.o $(CFLAGS)
+
+Outputs/BooksManagementSystem_private.res: BooksManagementSystem_private.rc 
+	$(WINDRES) -i BooksManagementSystem_private.rc --input-format=rc -o Outputs/BooksManagementSystem_private.res -O coff 
+
