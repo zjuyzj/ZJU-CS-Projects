@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/zjuyzj/.gradle/caches/transforms-2/files-2.1/74f3bec4fadcfef5b1fbf5c6e81230a7/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/zjuyzj/.gradle/caches/transforms-2/files-2.1/71f464216d6ed251989547bfe396dadf/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/zjuyzj/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

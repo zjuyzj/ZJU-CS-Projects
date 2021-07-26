@@ -1,0 +1,21 @@
+<resources>
+    <!-- Global -->
+    <string name="app_name">todolist</string>
+
+    <!-- Main -->
+    <string name="action_settings">Settings</string>
+    <string name="action_debug">Debug</string>
+
+    <!-- Debug -->
+    <string name="print_absolute_path">Print absolute path</string>
+    <string name="request_storage_permission">Request Storage Permission</string>
+    <string name="write_to_file">Write to files</string>
+    <string name="write_to_file_hint">Display your content here</string>
+
+    <!-- Note -->
+    <string name="take_a_note">Take a note</string>
+    <string name="confirm">Confirm</string>
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Normal</string>
+    <string name="priority_low">Low</string>
+</resources>

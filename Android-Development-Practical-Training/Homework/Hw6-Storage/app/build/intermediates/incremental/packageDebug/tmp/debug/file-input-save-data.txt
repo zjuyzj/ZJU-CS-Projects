@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Jul 19 17:14:03 CST 2021
+0.base=/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.set=DEX
+1.base=/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+0.set=DEX

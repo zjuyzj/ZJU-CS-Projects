@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/zjuyzj/.gradle/caches/transforms-2/files-2.1/74f3bec4fadcfef5b1fbf5c6e81230a7/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

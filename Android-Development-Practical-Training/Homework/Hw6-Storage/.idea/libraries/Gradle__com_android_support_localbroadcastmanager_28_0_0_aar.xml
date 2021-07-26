@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:localbroadcastmanager:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24e92546b472b6f86b9c143676f2a3a7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24e92546b472b6f86b9c143676f2a3a7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24e92546b472b6f86b9c143676f2a3a7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1514a5a925259a86ed265f74f8001a21/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1514a5a925259a86ed265f74f8001a21/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1514a5a925259a86ed265f74f8001a21/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a1c107ad28211152daa75e1a884dbde9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a1c107ad28211152daa75e1a884dbde9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a1c107ad28211152daa75e1a884dbde9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

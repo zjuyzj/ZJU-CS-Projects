@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/drawable_loading_green.xml.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/drawable/loading_green.xml"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/drawable_placeholder_blue.xml.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/drawable/placeholder_blue.xml"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/drawable_error_red.xml.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/drawable/error_red.xml"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/layout_activity_video_detail.xml.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/layout/activity_video_detail.xml"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/layout_activity_picture_detail.xml.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/layout/activity_picture_detail.xml"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw7-Basic Multimedia/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

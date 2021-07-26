@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/bg_shape" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="600px"
+        android:layout_gravity="top"
+        android:layout_marginVertical="10px"
+        android:src="@drawable/anime" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="50px">
+
+        <TextView
+            android:id="@+id/txt_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2021-07-13 获得"
+            android:textSize="60px" />
+
+        <TextView
+            android:id="@+id/txt_banner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_date"
+            android:layout_toRightOf="@+id/txt_date"
+            android:text="又“水”了一天"
+            android:textStyle="bold"
+            android:textSize="80px" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="110px"
+            android:layout_below="@+id/txt_date"
+            android:layout_toLeftOf="@+id/txt_banner"
+            android:src="@drawable/java" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="30px"
+        android:gravity="center"
+        android:text="明天也要记得"
+        android:textSize="60px" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="30px"
+        android:text="[多喝热水]"
+        android:textStyle="italic"
+        android:textSize="80px" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="50px"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="今日喝水次数："
+            android:textSize="60px" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="20/20次"
+            android:textSize="60px" />
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/water_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="50px"
+        android:background="@drawable/btn_selector"
+        android:padding="60px"
+        android:text="去喝水"
+        android:textColor="@color/white"
+        android:textSize="60px"
+        android:textStyle="bold" />
+
+</LinearLayout>

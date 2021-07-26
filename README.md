@@ -55,6 +55,17 @@
 - 面向对象程序设计（翁恺老师）：C++ CLI小程序
   - 学生成绩处理
   - Adventure（拯救公主）小游戏
+- Android开发实训（字节跳动联合教学）：
+  - 平时作业（8次）
+    - Hello World
+    - 基本Android UI
+    - Fragment和动画
+    - 多线程和自定义View
+    - Android网络
+    - Android存储
+    - 多媒体基础
+    - 多媒体进阶
+  - 课程设计：迷你短视频客户端（QuickVideo）
 ### （2）正在整理的课程
 - 数字逻辑设计（Verilog）
 - 计算机组成（Verilog）

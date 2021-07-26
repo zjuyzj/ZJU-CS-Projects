@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.constraint:constraint-layout:1.1.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8eacf5594387ac492eb315b8b18bd3aa/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8eacf5594387ac492eb315b8b18bd3aa/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8eacf5594387ac492eb315b8b18bd3aa/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2444125bee1d19083e29676bcba0f605/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2444125bee1d19083e29676bcba0f605/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2444125bee1d19083e29676bcba0f605/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f12bbfc99edb8e335813c149589c38bb/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f12bbfc99edb8e335813c149589c38bb/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f12bbfc99edb8e335813c149589c38bb/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

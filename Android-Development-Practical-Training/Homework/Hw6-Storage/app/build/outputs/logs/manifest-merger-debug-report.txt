@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/28f5a38d3781a3f6bc059b4c896d3fad/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/74f3bec4fadcfef5b1fbf5c6e81230a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/f12bbfc99edb8e335813c149589c38bb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/0e9731ff86e3e17317a1d04d2cce32ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/bddc5be0d3be1764a0c98a352c0b3040/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/90df43eea8b4a388f4e557c16643131d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/65092d997c8a8e6a44a8a9765326c07b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/c9ed34af8c72f4bcf87e4b123b6a6efd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/f9fd747485e4e783302aa3fb498c0b07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/66c39e5768c427f3158b5d2990a0ee39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/2f9d3ea0a145fd255033014625ee6e2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/81d883c8f3ba5167660894f343f07090/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/28b64dcf0a5bac22834bcd7a2f70344c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/211bd9453d0922a832af7a92e9edf727/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/b42fd12ee49635a4a9d8cd75be170d6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/8f8ea75d533e078b54493d088d2a2fd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/d435515bbc72635416fd6dd89e4d0469/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/a226af58cf0ffcb50c513f1f32ea0e0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/71f464216d6ed251989547bfe396dadf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/216f17b84f231ea7baccec24be6cb785/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/3e062887604090ed96cd23377775f564/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/8c68c55a0972606cf3aa79c3af89a41a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/e953e355faf342f23301378d2b7d2ec3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/3aabb8927581ac6828deb715dd4c4d61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/a1c107ad28211152daa75e1a884dbde9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/5647c1fd3228c4ac9b18ad39fb8f28c3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/3117cb73002299a9309a3ad43ddafdb4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/7591036731f97dce3f571bebb04411a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/9767f593e88e9e5c4370cb842c1c2e24/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/f9e80e9b56cef21754c24dbb80209c34/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/8bf5dd67e696d6840836b4f360d16d25/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:4:5-38
+		INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support:design:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/28f5a38d3781a3f6bc059b4c896d3fad/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/28f5a38d3781a3f6bc059b4c896d3fad/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/f12bbfc99edb8e335813c149589c38bb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/f12bbfc99edb8e335813c149589c38bb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/71f464216d6ed251989547bfe396dadf/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/71f464216d6ed251989547bfe396dadf/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/216f17b84f231ea7baccec24be6cb785/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/216f17b84f231ea7baccec24be6cb785/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/71f464216d6ed251989547bfe396dadf/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.byted.camp.todolist.MainActivity
+ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.byted.camp.todolist.debug.DebugActivity
+ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:26:19-54
+activity#com.byted.camp.todolist.NoteActivity
+ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:27:19-47
+activity#com.byted.camp.todolist.debug.FileDemoActivity
+ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:28:19-57
+activity#com.byted.camp.todolist.debug.SpDemoActivity
+ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:29:9-58
+	android:name
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml:29:19-55
+uses-sdk
+INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/28f5a38d3781a3f6bc059b4c896d3fad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/28f5a38d3781a3f6bc059b4c896d3fad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/74f3bec4fadcfef5b1fbf5c6e81230a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/74f3bec4fadcfef5b1fbf5c6e81230a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/f12bbfc99edb8e335813c149589c38bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/f12bbfc99edb8e335813c149589c38bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/0e9731ff86e3e17317a1d04d2cce32ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/0e9731ff86e3e17317a1d04d2cce32ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/bddc5be0d3be1764a0c98a352c0b3040/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/bddc5be0d3be1764a0c98a352c0b3040/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/90df43eea8b4a388f4e557c16643131d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/90df43eea8b4a388f4e557c16643131d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/65092d997c8a8e6a44a8a9765326c07b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/65092d997c8a8e6a44a8a9765326c07b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/c9ed34af8c72f4bcf87e4b123b6a6efd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/c9ed34af8c72f4bcf87e4b123b6a6efd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/f9fd747485e4e783302aa3fb498c0b07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/f9fd747485e4e783302aa3fb498c0b07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/66c39e5768c427f3158b5d2990a0ee39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/66c39e5768c427f3158b5d2990a0ee39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/2f9d3ea0a145fd255033014625ee6e2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/2f9d3ea0a145fd255033014625ee6e2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/81d883c8f3ba5167660894f343f07090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/81d883c8f3ba5167660894f343f07090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/28b64dcf0a5bac22834bcd7a2f70344c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/28b64dcf0a5bac22834bcd7a2f70344c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/211bd9453d0922a832af7a92e9edf727/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/211bd9453d0922a832af7a92e9edf727/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/b42fd12ee49635a4a9d8cd75be170d6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/b42fd12ee49635a4a9d8cd75be170d6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/8f8ea75d533e078b54493d088d2a2fd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/8f8ea75d533e078b54493d088d2a2fd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/d435515bbc72635416fd6dd89e4d0469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/d435515bbc72635416fd6dd89e4d0469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/a226af58cf0ffcb50c513f1f32ea0e0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/a226af58cf0ffcb50c513f1f32ea0e0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/71f464216d6ed251989547bfe396dadf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/71f464216d6ed251989547bfe396dadf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/216f17b84f231ea7baccec24be6cb785/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/216f17b84f231ea7baccec24be6cb785/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/3e062887604090ed96cd23377775f564/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/3e062887604090ed96cd23377775f564/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/8c68c55a0972606cf3aa79c3af89a41a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/8c68c55a0972606cf3aa79c3af89a41a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/e953e355faf342f23301378d2b7d2ec3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/e953e355faf342f23301378d2b7d2ec3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/3aabb8927581ac6828deb715dd4c4d61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/3aabb8927581ac6828deb715dd4c4d61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/a1c107ad28211152daa75e1a884dbde9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/a1c107ad28211152daa75e1a884dbde9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/5647c1fd3228c4ac9b18ad39fb8f28c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/5647c1fd3228c4ac9b18ad39fb8f28c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/3117cb73002299a9309a3ad43ddafdb4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/3117cb73002299a9309a3ad43ddafdb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/7591036731f97dce3f571bebb04411a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/7591036731f97dce3f571bebb04411a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/9767f593e88e9e5c4370cb842c1c2e24/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/9767f593e88e9e5c4370cb842c1c2e24/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/f9e80e9b56cef21754c24dbb80209c34/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/f9e80e9b56cef21754c24dbb80209c34/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/8bf5dd67e696d6840836b4f360d16d25/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/zjuyzj/.gradle/caches/transforms-2/files-2.1/8bf5dd67e696d6840836b4f360d16d25/AndroidManifest.xml:20:5-44
+INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+		ADDED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zjuyzj/Desktop/android-camp-2021-hw-zjuyzj/Hw6-Storage/app/src/main/AndroidManifest.xml

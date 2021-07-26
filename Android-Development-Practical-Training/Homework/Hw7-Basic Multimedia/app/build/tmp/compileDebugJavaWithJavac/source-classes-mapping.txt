@@ -1,0 +1,8 @@
+com/example/mediaworksdemo/BuildConfig.java
+ com.example.mediaworksdemo.BuildConfig
+com/example/mediaworksdemo/PictureDetailActivity.java
+ com.example.mediaworksdemo.PictureDetailActivity
+com/example/mediaworksdemo/MainActivity.java
+ com.example.mediaworksdemo.MainActivity
+com/example/mediaworksdemo/VideoDetailActivity.java
+ com.example.mediaworksdemo.VideoDetailActivity

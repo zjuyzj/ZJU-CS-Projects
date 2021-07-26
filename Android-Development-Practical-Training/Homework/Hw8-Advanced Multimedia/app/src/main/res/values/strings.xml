@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MediaDemo</string>
+    <string name="system_take_picture">系统相机拍照</string>
+    <string name="system_record">系统相机录制</string>
+    <string name="custom_camera">自定义相机</string>
+    <string name="take_photo">拍照</string>
+    <string name="take_photo_path">拍照(指定路径)</string>
+    <string name="record">录制</string>
+</resources>

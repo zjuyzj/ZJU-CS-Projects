@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/background"
+        android:scaleType="fitXY"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="35px"
+            android:text="Activity生命周期与Intent"
+            android:textColor="@color/white"
+            android:textSize="65px" />
+
+        <Button
+            android:id="@+id/hello_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="35px"
+            android:padding="50px"
+            android:text="活动传值"
+            android:textSize="65px"
+            app:backgroundTint="@android:color/holo_green_dark" />
+
+        <Button
+            android:id="@+id/web_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="35px"
+            android:padding="50px"
+            android:text="百度一下"
+            android:textSize="65px"
+            app:backgroundTint="@android:color/holo_green_dark" />/>
+
+        <Button
+            android:id="@+id/phone_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="35px"
+            android:padding="50px"
+            android:text="拨打电话"
+            android:textSize="65px"
+            app:backgroundTint="@android:color/holo_green_dark" />/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="35px"
+            android:text="常用控件与RecyclerView"
+            android:textColor="@color/white"
+            android:textSize="65px" />
+
+        <Button
+            android:id="@+id/toast_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="35px"
+            android:padding="50px"
+            android:text="按钮监听"
+            android:textSize="65px"
+            app:backgroundTint="@android:color/holo_orange_dark" />
+
+        <Button
+            android:id="@+id/ui_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="35px"
+            android:padding="50px"
+            android:text="布局方式"
+            android:textSize="65px" />
+
+        <Button
+            android:id="@+id/toplist_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="35px"
+            android:padding="50px"
+            android:text="抖音热搜"
+            android:textSize="65px" />
+
+    </LinearLayout>
+</FrameLayout>
+
